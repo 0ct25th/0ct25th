@@ -50,36 +50,10 @@
 <br>
 
 <h2 align="center">💬 GitHub Status</h2> 
-<!-- 왼쪽: GitHub Stats -->
-<p align="left">
-  <img
-    alt="yoon's GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=0ct25th&show_icons=true&theme=transparent" />
-</p>
-
-<!-- 오른쪽: Gitanimals -->
-<p align="right">
+<p align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img alt="gitanimals farm" src="https://render.gitanimals.org/farms/0ct25th"/>
   </a>
 </p>
 <br>
-<br>
-
-<h2 align="center">💫 Algorithm</h2> 
-<div align="left">
-  <p>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0ct25th" alt="Solved.ac Profile 0ct25th" />
-    <img alt="solved.ac grass for 0ct25th"
-       src="http://mazandi.herokuapp.com/api?handle=0ct25th&theme=warm" />
-  </p>
-</div>
-<div align="right">
-  <p>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dec_15th" alt="Solved.ac Profile dec_15th" />
-    <img alt="solved.ac grass for dec_15th"
-       src="http://mazandi.herokuapp.com/api?handle=dec_15th&theme=warm" />
-  </p>
-</div>
-
 <br>
